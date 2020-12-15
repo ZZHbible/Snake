@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sneak", "Sneak\Sneak.vcxproj", "{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Debug|x64.ActiveCfg = Debug|x64
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Debug|x64.Build.0 = Debug|x64
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Debug|x86.Build.0 = Debug|Win32
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Release|x64.ActiveCfg = Release|x64
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Release|x64.Build.0 = Release|x64
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Release|x86.ActiveCfg = Release|Win32
+		{0D20A5D5-E801-4BC2-910E-C3F1F6BC1499}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74990ED-D8E8-4C82-AB69-23AF14652C3B}
+	EndGlobalSection
+EndGlobal
